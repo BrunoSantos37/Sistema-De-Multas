@@ -1,0 +1,59 @@
+.caixa{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 700px;
+    height: 700px;
+    border: solid 5px;
+}
+
+.Sm{
+    background: rgb(33, 112, 197);
+    width: 700px;
+    height: 23%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-style: Georgia;
+    font-size: 30px;
+    color: white;
+}
+
+.vel{
+    background: rgb(255, 251, 251);
+    width: 700px;
+    height: 38%;
+    /* display: flex; */
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+input{
+    display: flex;
+    margin: auto;
+}
+
+#inputNumber{
+    width: 300px;
+    height: 30px;
+}
+
+#inputButton{
+    width:100px ;
+    height: 40px;
+    margin-top: 35px;
+}
+
+.result{
+    background: rgba(255, 255, 255, 0);
+    width: 700px;
+    height: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+    font-size: 40px;
+
+}
