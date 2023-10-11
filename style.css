@@ -1,6 +1,5 @@
 .caixa{
-    margin-left: 50px;
-    margin-top: 20px;
+    margin: 2em auto;
     width: 700px;
     height: 700px;
     border: solid 5px;
